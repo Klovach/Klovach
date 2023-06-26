@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on web browser, Leetcode, IT certifications, and Unity games.
+- 🔭 I’m currently working on JavaScript games, Leetcode, IT certifications, and Unity games.
 - 🌱 I’m currently learning JavaScript, Python, and Powershell.
 - 💬 I'm open to networking, collaborative projects, and getting to know other developers. 
 - 📫 You can reach me through private messages or through my website's contact form.
