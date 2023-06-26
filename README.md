@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning JavaScript, Python, and Powershell scripting. I am almost always studying something new. 
 - 💬 I'm open to networking, collaborative projects, and getting to know other developers. 
 - 📫 You can reach me through private messages or through my website's contact form.
-- ⚡ I enjoy studying and have several journals demonstrating all of the subjects I have covered at University. I also have an educational background in graphic design, which I use to create visually appealing presentations and applications. Feel free to have a look.
+- ⚡ I enjoy studying and have several journals demonstrating all of the subjects I have covered at University. I also have an educational background in graphic design, which I use to create visually appealing presentations, documentations, and applications. Feel free to have a look.
