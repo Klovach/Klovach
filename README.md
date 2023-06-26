@@ -1,6 +1,3 @@
-
-![Screenshot 2023-06-22 025033](https://github.com/Klovach/Klovach/assets/113477921/50114c20-77fa-4654-a52d-d518a1a15d51)
-
 ### Hi there 👋
 - 🔭 I’m currently working on web browser, Leetcode, IT certifications, and Unity games.
 - 🌱 I’m currently learning JavaScript, Python, and Powershell.
