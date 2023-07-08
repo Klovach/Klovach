@@ -11,7 +11,7 @@
 - Bachelor's in Software Development - (April 2024)
 - Associate's of Graphic Design - (August 2022)
 
-### My Experience 🙌
+### My Contributions 🙌
 - [Front-End Developer (WeatherSense)](https://github.com/sarthaklambaa/WeatherSense) - (June 2023 - Present)
 
 ![Klovach's github stats](https://github-readme-stats.vercel.app/api?username=klovach&show_icons=true&hide_border=true)&nbsp;&nbsp;
