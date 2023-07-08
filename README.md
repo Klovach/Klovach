@@ -8,11 +8,11 @@
 - ⚡ I enjoy studying and have several journals demonstrating all of the subjects I have covered at University. I also have an educational background in graphic design, which I use to create visually appealing presentations, documentations, and applications. Feel free to have a look.
 
 ### My Education 🌱
-- Bachelor's in Software Development - (April'24)
-- Associate's of Graphic Design - (August'2022)
+- Bachelor's in Software Development - (April 2024)
+- Associate's of Graphic Design - (August 2022)
 
 ### My Experience 🙌
-- [Front-End Developer (WeatherSense)]([(https://github.com/sarthaklambaa/WeatherSense]) - (June'23-Present)
+- [Front-End Developer (WeatherSense)](https://github.com/sarthaklambaa/WeatherSense) - (June 2023 - Present)
 
 ![Klovach's github stats](https://github-readme-stats.vercel.app/api?username=klovach&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Klovach's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=klovach&layout=compact&langs_count=8&hide_border=true)
