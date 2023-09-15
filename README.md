@@ -13,8 +13,6 @@
 
 ### My Contributions 🙌
 - [Front-End Developer (WeatherSense)](https://github.com/sarthaklambaa/WeatherSense) - (June 2023 - Present)
-
-![Klovach's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=klovach&layout=compact&langs_count=8&hide_border=true)
 <br />
 
 ## My Portfolio Website <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> 
