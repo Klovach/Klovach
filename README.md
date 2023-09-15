@@ -13,7 +13,6 @@
 
 ### My Contributions 🙌
 - [Front-End Developer (WeatherSense)](https://github.com/sarthaklambaa/WeatherSense) - (June 2023 - Present)
-<br />
 
 ## My Portfolio Website <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> 
 If you like what you see here, check out my portfolio. <br>
