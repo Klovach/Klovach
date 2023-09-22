@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Markus K!](https://markusportfolio.pro) 
+ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Markus K!](https://markusportfolio.pro)
 
 ### Special Notice 🌱
 My portfolio website, LinkedIn, and GitHub profile will be undergoing important updates as I begin to slowly integrate optimized versions of leftover work from college projects and passion projects that have not yet been unveiled publicly. In addition, changes to graphics, new certifications to list, work experience highlights, and more are on the way. Keep an eye out for updates in the next fourteen days! 
