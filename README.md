@@ -19,7 +19,8 @@ My portfolio website, LinkedIn, and GitHub profile will be undergoing important 
 - Nutritional Meal Plan Generator
 - Minesweeper Game 
 - Icecream Parlor Website
-- Rental Management System
+- Technology Club Website 
+- Rental Management System || Car Rental Application
 
 ### My Contributions 🙌
 - Front-End Developer (WeatherSense) - (June 2023 - August 2023)
