@@ -17,6 +17,9 @@ My portfolio website, LinkedIn, and GitHub profile will be undergoing important 
 
 ## My Upcoming Projects
 - Nutritional Meal Plan Generator
+- Minesweeper Game 
+- Icecream Parlor Website
+- Rental Management System
 
 ### My Contributions 🙌
 - [Front-End Developer (WeatherSense)](https://github.com/sarthaklambaa/WeatherSense) - (June 2023 - Present)
