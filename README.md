@@ -16,14 +16,7 @@ My portfolio website, LinkedIn, and GitHub profile will be undergoing important 
 - Associate's of Graphic Design - (August 2022)
 
 ## My Upcoming Projects
-ASP.NET Identity Hub
-- A project which utilizes ASP.NET Core MVC with an attractive UI to seamlessly handle user authentication, registration, and authorization, while efficiently managing user profiles. 
-
-Tenant Management System
-- This project is a software solution designed to streamline the management of residential or commercial properties.
-
-Car Rental Management System
-- This project is a user-friendly Car Rental Management System that empowers users to seamlessly manage car rentals, from booking and vehicle selection to rental duration. 
+- Nutritional Meal Plan Generator
 
 ### My Contributions 🙌
 - [Front-End Developer (WeatherSense)](https://github.com/sarthaklambaa/WeatherSense) - (June 2023 - Present)
