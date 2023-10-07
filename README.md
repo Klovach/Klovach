@@ -22,7 +22,11 @@ My portfolio website, LinkedIn, and GitHub profile will be undergoing important 
 - Rental Management System
 
 ### My Contributions 🙌
-- [Front-End Developer (WeatherSense)](https://github.com/sarthaklambaa/WeatherSense) - (June 2023 - Present)
+- Front-End Developer (WeatherSense) - (June 2023 - August 2023)
+A weather app made with the Django framework.
+- (Upcoming)
+A Unity game for the purpose of submission in a competition. 
+
 
 ## My Portfolio Website <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> 
 If you like what you see here, check out my portfolio. <br>
