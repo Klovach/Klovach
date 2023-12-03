@@ -6,7 +6,6 @@ My portfolio website, LinkedIn, and GitHub profile will be undergoing important 
 ### About Me 🚀
 - 🚀 These days I'm working on ASP.NET applications, principles of secure application development and test-driven development, and mastery of OpenAI APIs with businesses in mind! See a list below of my current objectives this year. 
 - 🔭 I love to work on JavaScript games, Leetcode, IT certifications, and Unity games.
-- 🌱 I’m currently revisiting Unity and developing lesson plans for an upcoming project. 
 - 💬 I'm open to networking, collaborative projects, and getting to know other developers. 
 - 📫 You can reach me through private messages or through my website's contact form.
 - ⚡ I enjoy studying and have several journals demonstrating all of the subjects I have covered at University. I also have an educational background in graphic design, which I use to create visually appealing presentations, documentations, and applications. Feel free to have a look.
