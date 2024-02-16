@@ -1,7 +1,7 @@
  Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Markus K!](https://markusportfolio.pro)
 
 ### About Me 🚀
-- 🚀 These days I'm working on ASP.NET applications, principles of secure application development and test-driven development, and mastery of OpenAI APIs with businesses in mind! See a list below of my current objectives this year. 
+- 🚀 These days I'm working on ASP.NET applications, principles of secure application development and test-driven development! See a list below of my current objectives this year. 
 - 🔭 I love to work on JavaScript games, Leetcode, IT certifications, and Unity games.
 - 💬 I'm open to networking, collaborative projects, and getting to know other developers. 
 - 📫 You can reach me through private messages or through my website's contact form.
